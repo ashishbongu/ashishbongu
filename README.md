@@ -11,9 +11,9 @@
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=java,js,ts,python" />
   <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,figma" />
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
@@ -22,10 +22,6 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=ashishbongu&icon=0&color=0" />
-</p>
 
 
 
