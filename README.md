@@ -17,7 +17,7 @@
     <foreignObject width="1000" height="80">
       <div xmlns="http://www.w3.org/1999/xhtml">
         <marquee behavior="scroll" direction="right" scrollamount="6">
-          <img src="https://skillicons.dev/icons?i=java,js,ts,python,html,css,react,bootstrap,figma,nodejs,express,mysql,mongodb,aws,git,github" />
+          <img src="https://skillicons.dev/icons?i=java,js,ts,python,html,css,react,bootstrap,figma,nodejs,express,mysql,mongodb,aws,git" />
         </marquee>
       </div>
     </foreignObject>
