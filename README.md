@@ -8,20 +8,20 @@
   <i>Full Stack Development | Problem Solving</i>
 </p>
 
-
 ---
 
-## Tech Stack
+<h2 align="center">🛠 Tech Stack</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,python" />
-  <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,figma" />
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-  <img src="https://skillicons.dev/icons?i=aws,git,github" />
+  <svg width="100%" height="80" viewBox="0 0 1000 80" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="1000" height="80">
+      <div xmlns="http://www.w3.org/1999/xhtml">
+        <marquee behavior="scroll" direction="right" scrollamount="6">
+          <img src="https://skillicons.dev/icons?i=java,js,ts,python,html,css,react,bootstrap,figma,nodejs,express,mysql,mongodb,aws,git,github" />
+        </marquee>
+      </div>
+    </foreignObject>
+  </svg>
 </p>
 
 ---
-
-
-
