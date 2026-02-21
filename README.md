@@ -5,20 +5,3 @@
 <h3 align="center">Student at Indian Institute of Information Technology, Dharwad</h3>
 
 
----
-
-<h4 align="left">Tech Stack</h4>
-
-<p align="center">
-  <svg width="100%" height="80" viewBox="0 0 1000 80" xmlns="http://www.w3.org/2000/svg">
-    <foreignObject width="1000" height="80">
-      <div xmlns="http://www.w3.org/1999/xhtml">
-        <marquee behavior="scroll" direction="right" scrollamount="6">
-          <img src="https://skillicons.dev/icons?i=java,js,ts,python,html,css,react,bootstrap,figma,nodejs,express,mysql,mongodb,aws,git" />
-        </marquee>
-      </div>
-    </foreignObject>
-  </svg>
-</p>
-
----
